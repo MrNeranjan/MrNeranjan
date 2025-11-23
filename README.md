@@ -10,12 +10,19 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm currently learning **new technologies and frameworks**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **web development, programming, and tech**
+- 🔭 I'm currently working on **exciting AI-powered and full-stack projects**
+- 🌱 I'm learning **new technologies, cloud platforms, and modern frameworks**
+- 👯 I'm looking to collaborate on **open-source and innovative tech projects**
+- 💬 Ask me about **web development, cloud, mobile apps, and programming**
 - 📫 How to reach me: **github.com/MrNeranjan**
-- ⚡ Fun fact: **I love coding and problem-solving**
+- 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/neranjan-pushpakumara-292279239/)
+- ⚡ Fun fact: **I love coding, problem-solving, and learning every day**
+
+🎓 I’m currently pursuing a **Computer Science & Engineering degree** at a  
+**leading engineering university in Sri Lanka**.
+
+💡 I’m passionate about exploring **new technologies**, building real-world solutions,  
+and continuously improving my skills.
 
 ## 🛠️ Languages and Tools
 
@@ -43,11 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrneranjan&show_icons=true&theme=radical&locale=en&layout=compact" alt="mrneranjan" />
 </p>
 
-## 🤝 Connect with Me
-
-<p align="left">
-Feel free to reach out and connect with me on various platforms!
-</p>
 
 ---
 
