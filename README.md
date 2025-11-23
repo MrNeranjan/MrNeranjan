@@ -10,13 +10,15 @@
 
 ## 🚀 About Me
 
-- 🎓 I’m currently pursuing a **BSc (Hons) in Computer Science & Engineering** at the **Faculty of Engineering, University of Moratuwa**, Sri Lanka.
-- 🔭 I'm currently working on **exciting AI-powered and full-stack projects**
-- 🌱 I'm learning **new technologies, cloud platforms, and modern frameworks**
-- 👯 I'm looking to collaborate on **open-source and innovative tech projects**
+- 🎓 Currently pursuing a **BSc (Hons) in Computer Science & Engineering** at the **Faculty of Engineering, University of Moratuwa**, Sri Lanka.
+- 🔭 Working on **exciting AI-powered and full-stack projects**
+- 🌱 Learning **new technologies, cloud platforms, and modern frameworks**
+- 👯 Looking to collaborate on **open-source and innovative tech projects**
 - 💬 Ask me about **web development, cloud, mobile apps, and programming**
 - 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/neranjan-pushpakumara-292279239/)
+- 📫 GitHub: [github.com/MrNeranjan](https://github.com/MrNeranjan)
 - ⚡ Fun fact: **I love coding, problem-solving, and learning every day**
+
 
 ## 🛠️ Languages and Tools
 
