@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing a **BSc (Hons) in Computer Science & Engineering** at the **Faculty of Engineering, University of Moratuwa**, Sri Lanka.
+- 🎓 Currently pursuing a **BSc (Hons) in Computer Science & Engineering** at the **University of Moratuwa**, Sri Lanka.
 - 🔭 Working on **exciting AI-powered and full-stack projects**
 - 🌱 Learning **new technologies, cloud platforms, and modern frameworks**
 - 👯 Looking to collaborate on **open-source and innovative tech projects**
