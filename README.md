@@ -14,15 +14,12 @@
 - 🌱 I'm learning **new technologies, cloud platforms, and modern frameworks**
 - 👯 I'm looking to collaborate on **open-source and innovative tech projects**
 - 💬 Ask me about **web development, cloud, mobile apps, and programming**
-- 📫 How to reach me: **github.com/MrNeranjan**
 - 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/neranjan-pushpakumara-292279239/)
 - ⚡ Fun fact: **I love coding, problem-solving, and learning every day**
 
-🎓 I’m currently pursuing a **Computer Science & Engineering degree** at a  
-**leading engineering university in Sri Lanka**.
+🎓 I’m currently pursuing a **BSc (Hons) in Computer Science & Engineering** at the **Faculty of Engineering, University of Moratuwa**, Sri Lanka.
 
-💡 I’m passionate about exploring **new technologies**, building real-world solutions,  
-and continuously improving my skills.
+💡 I’m passionate about exploring **new technologies**, building real-world solutions, and continuously improving my skills.
 
 ## 🛠️ Languages and Tools
 
@@ -49,7 +46,6 @@ and continuously improving my skills.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrneranjan&show_icons=true&theme=radical&locale=en&layout=compact" alt="mrneranjan" />
 </p>
-
 
 ---
 
