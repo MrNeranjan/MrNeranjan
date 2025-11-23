@@ -1,5 +1,8 @@
-<h1 align="center">Hi there 👋, I'm MrNeranjan</h1>
-<h3 align="center">A passionate developer from Sri Lanka</h3>
+<h1 align="center">Hi there 👋, I'm Neranjan Pushpakumara</h1>
+<h3 align="center">
+  Software Engineer | AI & Cloud Enthusiast | Problem Solver from 
+  <img src="https://flagcdn.com/w20/lk.png" width="20"/> Sri Lanka
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrneranjan&label=Profile%20views&color=0e75b6&style=flat" alt="mrneranjan" />
