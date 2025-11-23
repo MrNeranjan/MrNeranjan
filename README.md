@@ -60,8 +60,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrneranjan&show_icons=true&theme=radical&locale=en&layout=compact" alt="mrneranjan" />
 </p>
 
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/MrNeranjan">MrNeranjan</a></i>
-</p>
