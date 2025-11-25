@@ -49,6 +49,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmrneranjan&query=public_repos&label=Public%20Repos&color=blue&style=radical" alt="Public Repos" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrneranjan&show_icons=true&theme=radical&locale=en" alt="mrneranjan" />
 </p>
 
