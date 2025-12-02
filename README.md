@@ -53,10 +53,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrneranjan&theme=radical" alt="mrneranjan" />
+  <img src="https://streak-stats.demolab.com?user=mrneranjan&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrneranjan&show_icons=true&theme=radical&locale=en&layout=compact" alt="mrneranjan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrneranjan&show_icons=true&theme=radical&layout=compact" alt="Top Langs" />
 </p>
 
