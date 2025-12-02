@@ -54,7 +54,7 @@
 
 <div align="center">
 
-![Streak Stats](https://streak-stats.demolab.com?user=mrneranjan&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mrneranjan)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mrneranjan&show_icons=true&theme=radical&layout=compact)
 
