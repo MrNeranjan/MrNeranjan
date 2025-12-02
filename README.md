@@ -52,11 +52,11 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrneranjan&show_icons=true&theme=radical&locale=en" alt="mrneranjan" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mrneranjan&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrneranjan&show_icons=true&theme=radical&layout=compact" alt="Top Langs" />
-</p>
+![Streak Stats](https://streak-stats.demolab.com?user=mrneranjan&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mrneranjan&show_icons=true&theme=radical&layout=compact)
+
+</div>
 
