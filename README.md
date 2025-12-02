@@ -52,9 +52,3 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrneranjan&show_icons=true&theme=radical&locale=en" alt="mrneranjan" />
 </p>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mrneranjan&theme=default&hide_border=true&v=1)
-
-</div>
-
