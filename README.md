@@ -54,7 +54,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrneranjan&theme=default&hide_border=true)]
+![GitHub Streak](https://streak-stats.demolab.com?user=mrneranjan&theme=default&hide_border=true&v=1)
 
 </div>
 
